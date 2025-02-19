@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="610" height="610" viewBox="0 0 610 610" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g opacity="0.5">
+        <circle cx="505.837" cy="100.668" r="5.623" fill="#e5ee4d"/>
+        <circle cx="97.278" cy="410.829" r="5.623" fill="#e5ee4d"/>
+        <circle cx="27.877" cy="185.262" r="3.432" fill="#e5ee4d"/>
+        <circle cx="500.213" cy="382.694" r="5.623" fill="#e5ee4d"/>
+        <circle cx="398.859" cy="574.377" r="3.747" fill="#e5ee4d"/>
+        <circle cx="27.563" cy="420.199" r="3.747" fill="#e5ee4d"/>
+        <circle cx="322.437" cy="34.9" r="3.747" fill="#e5ee4d"/>
+        <circle cx="170.25" cy="64.608" r="6.776" fill="#6800cd"/>
+        <circle cx="474.167" cy="505.692" r="6.776" fill="#6800cd"/>
+        <circle cx="373.442" cy="128.612" r="6.776" fill="#6800cd"/>
+        <circle cx="311.93" cy="7.789" r="6.761" fill="#cf103d"/>
+        <circle cx="163.489" cy="519.228" r="6.761" fill="#cf103d"/>
+        <circle cx="25.263" cy="245.593" r="4.496" fill="#cf103d"/>
+        <circle cx="509.564" cy="216.849" r="8.164" fill="#b01be1"/>
+        <circle cx="33.555" cy="464.768" r="3.797" fill="#b01be1"/>
+        <circle cx="600.074" cy="255.693" r="3.797" fill="#b01be1"/>
+        <circle cx="7.365" cy="196.995" r="5.212" fill="#b01be1"/>
+        <circle cx="217.525" cy="578.366" r="3.989" fill="#b01be1"/>
+        <circle cx="293.989" cy="18.538" r="3.989" fill="#b01be1"/>
+        <circle cx="603.871" cy="274.094" r="3.797" fill="#0600fe"/>
+        <circle cx="137.468" cy="538.939" r="3.797" fill="#0600fe"/>
+        <circle cx="545.971" cy="141.011" r="3.797" fill="#0600fe"/>
+        <circle cx="501.4" cy="288.529" r="3.797" fill="#0600fe"/>
+        <circle cx="557.237" cy="442.901" r="3.797" fill="#0600fe"/>
+        <circle cx="37.352" cy="416.453" r="3.797" fill="#0600fe"/>
+        <circle cx="33.555" cy="68.405" r="3.797" fill="#0600fe"/>
+        <circle cx="322.488" cy="555.434" r="3.797" fill="#0600fe"/>
+        <circle cx="541.169" cy="360.21" r="4.803" fill="#851f14"/>
+        <circle cx="116.94" cy="76.187" r="4.803" fill="#851f14"/>
+        <circle cx="278.217" cy="604.427" r="4.803" fill="#851f14"/>
+    </g>
+</svg>
